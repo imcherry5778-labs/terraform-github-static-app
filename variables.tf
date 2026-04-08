@@ -1,6 +1,6 @@
 variable "template_org" {
   description = "The name of the organization in Github that will contain the example app repo."
-  default     = "hashicorp-education"
+  default     = "imcherry5778-labs"
 }
 
 variable "template_repo" {

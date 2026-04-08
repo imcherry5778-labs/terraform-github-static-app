@@ -1,0 +1,4 @@
+gh_token             = "ghp_xxxxxxxxxxxx"
+destination_org      = "imcherry5778-labs"
+waypoint_application = "mystaticapp"
+slack_hook_url       = ""  # optional
